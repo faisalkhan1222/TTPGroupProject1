@@ -15,11 +15,11 @@ nav{
 	float: right;
 }
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
 }
 li{
 	float: left;
@@ -32,20 +32,20 @@ h1, nav{
 	font-size: 20px;
 }
 li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
 }
 
 a:hover:not(.active) {
-    background-color: #111;
+	background-color: #111;
 
 }
 
 .active {
-background-color:#005580;
+	background-color:#005580;
 }
 a{
 	font-family: Palatino Linotype;
@@ -55,7 +55,7 @@ a{
 
 }
 p{
-color: white;
+	color: white;
 	text-align: left;
 }
 #about{
@@ -113,13 +113,13 @@ color: white;
 }
 
 #contactFormDiv{
-width: 50%;
-height: 60%;
-border-style: inset;
+	width: 50%;
+	height: 60%;
+	border-style: inset;
 
-margin: auto;
-margin-top: 2%;
-color: white;
+	margin: auto;
+	margin-top: 2%;
+	color: white;
 }
 
 #name{
