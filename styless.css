@@ -154,14 +154,11 @@ label{
 a:hover{
 	background-color: #005580;
 	border-style: inset;
-<<<<<<< HEAD
 	color: black;
 }
 
 h1, nav{
 	display: inline;
-=======
->>>>>>> 230512080809a296a0493d477977aa2217df5268
 	color: white;
 
 }
@@ -220,6 +217,7 @@ video{
 footer{
 	margin-top: 2%;
 	border-style: inset;
+	border-color: #005580;
 	clear: both;
 	text-align: center;
 	color: white;
