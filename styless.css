@@ -217,7 +217,7 @@ video{
 footer{
 	margin-top: 2%;
 	border-style: inset;
-	border-color: #005580;
+	background-color: #005580;
 	clear: both;
 	text-align: center;
 	color: white;
