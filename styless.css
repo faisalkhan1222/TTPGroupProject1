@@ -11,21 +11,45 @@ body{
 	background-image:url(https://wallpaperscraft.com/image/computer_keyboard_mouse_laptop_mac_apple_66734_3840x2160.jpg);
 }
 nav{
-	margin-top: 3%;
+	margin-top: 2%;
 	float: right;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
 li{
-	display: inline;
-	padding: 10px;
-	text-decoration: none;
-	font-size: 20px;
+	float: left;
 
+}
+h1, nav{
+	display: inline;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    background-color: #111;
+
+}
+
+.active {
+background-color:#005580;
 }
 a{
 	font-family: Palatino Linotype;
 	text-decoration: none;
 	color: white;
-	border: 3px solid white;
+	margin-right: 2%;
+	
 
 
 
@@ -91,15 +115,12 @@ color: white;
 
 
 a:hover{
-	background-color: #ccccff;
+	background-color: #005580;
 	border-style: inset;
-	color: black;
+	color: white;
 
 }
-h1, nav{
-	display: inline;
-	color: white;
-}
+
 h1{
 	font-family:Palatino Linotype;
 	font-size: 58px;
