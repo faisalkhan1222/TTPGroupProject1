@@ -19,16 +19,12 @@ li{
 	padding: 10px;
 	text-decoration: none;
 	font-size: 20px;
-
 }
 a{
 	font-family: Palatino Linotype;
 	text-decoration: none;
 	color: white;
 	border: 3px solid white;
-
-
-
 }
 p{
 color: white;
@@ -45,7 +41,6 @@ color: white;
 	background-size:80px;
 	background-repeat: no-repeat;
 }
-
 
 #Cpp a, #java a, #JavaScript a, #php a, #python a, #css a, #html a{
 	color: white;
@@ -92,8 +87,10 @@ color: white;
 #contactFormDiv{
 width: 50%;
 height: 60%;
-border: 2px solid green;
+border-style: inset;
+
 margin: auto;
+margin-top: 2%;
 color: white;
 }
 
@@ -130,8 +127,8 @@ a:hover{
 	background-color: #ccccff;
 	border-style: inset;
 	color: black;
-
 }
+
 h1, nav{
 	display: inline;
 	color: white;
@@ -188,6 +185,7 @@ video{
 	margin-top: 3%;
 }
 footer{
+	margin-top: 2%;
 	border-style: inset;
 	clear: both;
 	text-align: center;
