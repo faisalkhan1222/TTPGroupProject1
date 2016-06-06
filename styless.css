@@ -34,15 +34,21 @@ p{
 color: white;
 	text-align: left;
 }
+#about{
+	margin-top: 5%;
+	background-color: #005580;
+	margin-bottom: 5%;
+}
 
 #Cpp{
 	background-image: url("c++.jpg");
-	background-size: 30%;
+	background-size: 23%;
 	background-repeat: no-repeat;
 }
 
+
 #Cpp a, #java a, #JavaScript a, #php a, #python a, #css a, #html a{
-	color: black;
+	color: white;
 }
 
 #java{
@@ -52,33 +58,33 @@ color: white;
 }
 #JavaScript{
 	background-image: url("javascript.png");
-	background-size: 30%;
+	background-size:24%;
 	background-repeat: no-repeat;
 }
 
 #php{
 	background-image: url("php.png");
-	background-size: 30%;
+	background-size: 26%;
 	background-repeat: no-repeat;
 }
 
 #python{
 	background-image: url("python.jpg");
-	background-size: 30%;
+	background-size: 34%;
 	background-repeat: no-repeat;
 
 }
 
 #css{
 	background-image: url("css.jpg");
-	background-size: 30%;
+	background-size: 27%;
 	background-repeat: no-repeat;
 
 }
 
 #html{
 	background-image: url("html.png");
-	background-size: 30%;
+	background-size: 25%;
 	background-repeat: no-repeat;
 
 }
