@@ -25,6 +25,10 @@ a{
 
 
 }
+p{
+
+	text-align: left;
+}
 a:hover{
 	background-color: yellow;
 	border-style: inset;
@@ -75,7 +79,7 @@ h2{
 }
 
 video{
-	
+
 	height: 300px;
 	width: 500px;
 	margin-left: 30%;
@@ -86,4 +90,3 @@ footer{
 	clear: both;
 	text-align: center;
 }
-
