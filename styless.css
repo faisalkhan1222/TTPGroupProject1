@@ -42,7 +42,7 @@ color: white;
 
 #Cpp{
 	background-image: url("c++.jpg");
-	background-size: 23%;
+	background-size:80px;
 	background-repeat: no-repeat;
 }
 
@@ -53,38 +53,38 @@ color: white;
 
 #java{
 	background-image: url("java.png");
-	background-size: 30%;
+	background-size: 80px;
 	background-repeat: no-repeat;
 }
 #JavaScript{
 	background-image: url("javascript.png");
-	background-size:24%;
+	background-size:80px;
 	background-repeat: no-repeat;
 }
 
 #php{
 	background-image: url("php.png");
-	background-size: 26%;
+	background-size: 80px;
 	background-repeat: no-repeat;
 }
 
 #python{
 	background-image: url("python.jpg");
-	background-size: 34%;
+	background-size: 80px;
 	background-repeat: no-repeat;
 
 }
 
 #css{
 	background-image: url("css.jpg");
-	background-size: 27%;
+	background-size:80px;
 	background-repeat: no-repeat;
 
 }
 
 #html{
 	background-image: url("html.png");
-	background-size: 25%;
+	background-size: 80px;
 	background-repeat: no-repeat;
 
 }
@@ -110,6 +110,11 @@ color: white;
 
 label{
 	font-size: 20px;
+}
+
+#parentDiv{
+	margin-left: 5%;
+	width : 90%;
 }
 
 #submitButton{
@@ -145,31 +150,32 @@ h2{
 }
 #col1{
 	border-style: inset;
-	height: 30%;
+	height:  100%;
 	width: 30%;
-	margin-left:1%;
-	margin-top: 10%;
+	margin-left:2%;
+	margin-top: 2%;
 	float: left;
 	text-align: center;
+	background-color:
 
 
 }
 #col2{
 	border-style: inset;
-	height: 30%;
+	height: 100%;
 	width: 30%;
-	margin-left: 1%;
-	margin-top: 10%;
+	margin-left: 2%;
+	margin-top: 2%;
 	float: left;
 	text-align: center;
 
 }
 #col3{
 	border-style: inset;
-	height: 30%;
+	height:  100%;
 	width: 30%;
-	margin-left: 1%;
-	margin-top: 10%;
+	margin-left: 2%;
+	margin-top: 2%;
 	float: left;
 	text-align: center;
 }
