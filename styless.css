@@ -29,6 +29,56 @@ p{
 
 	text-align: left;
 }
+
+#Cpp{
+	background-image: url("c++.jpg");
+	background-size: 30%;
+	background-repeat: no-repeat;
+}
+
+#Cpp a, #java a, #JavaScript a, #php a, #python a, #css a, #html a{
+	color: black;
+}
+
+#java{
+	background-image: url("java.png");
+	background-size: 30%;
+	background-repeat: no-repeat;
+}
+#JavaScript{
+	background-image: url("javascript.png");
+	background-size: 30%;
+	background-repeat: no-repeat;
+}
+
+#php{
+	background-image: url("php.png");
+	background-size: 30%;
+	background-repeat: no-repeat;
+}
+
+#python{
+	background-image: url("python.jpg");
+	background-size: 30%;
+	background-repeat: no-repeat;
+
+}
+
+#css{
+	background-image: url("css.jpg");
+	background-size: 30%;
+	background-repeat: no-repeat;
+
+}
+
+#html{
+	background-image: url("html.png");
+	background-size: 30%;
+	background-repeat: no-repeat;
+
+}
+
+
 a:hover{
 	background-color: yellow;
 	border-style: inset;
