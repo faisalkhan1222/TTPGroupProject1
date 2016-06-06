@@ -1,5 +1,6 @@
 function mail(){
 
+
 var subject = document.getElementById("subject").value;
 var comments = document.getElementById("comments").value;
 
