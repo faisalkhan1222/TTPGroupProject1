@@ -1,13 +1,17 @@
 header{
 	border: 3px solid black;
-	background-image: url(https://wallpaperscraft.com/image/computer_keyboard_mouse_laptop_mac_apple_66734_3840x2160.jpg);
+	background-image: url(aaa.png);
 	color: white;
 	background-size: 100%;
 	height: 130px;
 	text-align: center;
 	padding: 50px;
 }
+body{
+	background-image:url(https://wallpaperscraft.com/image/computer_keyboard_mouse_laptop_mac_apple_66734_3840x2160.jpg);
+}
 nav{
+	margin-top: 3%;
 	float: right;
 }
 li{
@@ -21,21 +25,24 @@ a{
 	font-family: Palatino Linotype;
 	text-decoration: none;
 	color: white;
-	border-style: inset;
+	border: 3px solid white;
+
 
 
 }
 p{
-
+color: white;
 	text-align: left;
 }
 a:hover{
-	background-color: yellow;
+	background-color: #ccccff;
 	border-style: inset;
+	color: black;
 
 }
 h1, nav{
 	display: inline;
+	color: white;
 }
 h1{
 	font-family:Palatino Linotype;
@@ -46,6 +53,8 @@ h2{
 	border-style: double;
 	padding: 30px;
 	margin-top: 0px;
+	background-color: #005580;
+	color: white;
 }
 #col1{
 	border-style: inset;
@@ -83,10 +92,11 @@ video{
 	height: 300px;
 	width: 500px;
 	margin-left: 30%;
-	margin-top: 10%;
+	margin-top: 3%;
 }
 footer{
 	border-style: inset;
 	clear: both;
 	text-align: center;
+	color: white;
 }
